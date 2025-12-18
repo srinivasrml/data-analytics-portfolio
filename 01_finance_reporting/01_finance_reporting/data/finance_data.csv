@@ -1,1 +1,13 @@
 Date,Revenue,Expense,Category,Region
+2025-12-01,10000,7000,Sales,North
+2025-12-02,12000,8000,Marketing,South
+2025-12-03,9000,6000,Operations,East
+2025-12-04,15000,9000,Sales,West
+2025-12-05,11000,7000,Marketing,North
+2025-12-06,13000,8500,Operations,South
+2025-12-07,12500,8000,Sales,East
+2025-12-08,14000,9500,Marketing,West
+2025-12-09,10000,6500,Operations,North
+2025-12-10,16000,10000,Sales,South
+2025-12-11,13500,9000,Marketing,East
+
