@@ -1,36 +1,43 @@
 # Data Analytics Portfolio
 
-This repository contains hands-on data analytics projects created to demonstrate
-my skills as an entry-level Data Analyst.
+This repository contains hands-on data analytics projects created to demonstrate my skills as an entry-level Data Analyst.  
+All projects are designed to reflect real-world business scenarios and recruiter expectations.
+
+---
 
 ## Skills Covered
 - Excel data cleaning & analysis
-- Pivot tables and business reporting
-- SQL queries for revenue & expense analysis
-- Basic business insights and storytelling
-- Finance and reporting datasets
+- Profit calculation and financial reporting
+- Pivot tables for business insights
+- CSV data handling
+- Basic SQL concepts (queries planned)
+- Business storytelling using data
+
+---
 
 ## Projects
 
 ### 1. Finance & Reporting Analysis
 **Folder:** `01_finance_reporting`
 
-**Description:**
-- Cleaned raw finance data
-- Calculated profit (Revenue - Expense)
-- Created pivot tables to analyze profit by category
-- Generated clear business insights
+#### Description
+- Cleaned structured finance data
+- Calculated profit using: Revenue − Expense
+- Built pivot tables to analyze profit by business category
+- Summarized insights clearly for decision-making
 
-**Tools Used:**
+#### Tools Used
 - Microsoft Excel
 - CSV datasets
-- Basic SQL (planned)
+- GitHub for version control
 
-**Key Insight Example:**
-- Sales category generated the highest total profit
-- Marketing showed consistent mid-range profitability
-- Operations costs require optimization
+#### Key Insights
+- **Sales** category generated the highest total profit
+- **Marketing** showed stable and consistent profitability
+- **Operations** profit was lower, indicating cost optimization opportunities
 
 ---
 
-More projects (Python automation, visualization, BI dashboards) will be added.
+More projects (Python automation, data visualization, BI dashboards) will be added progressively.
+
+
